@@ -1,18 +1,3 @@
-# Arquivos do sistema
-.DS_Store
-Thumbs.db
-
-# Configurações do VS Code
-.vscode/
 
 # Dependências do Node.js
 node_modules/
-
-# Arquivos de log
-*.log
-
-# Variáveis de ambiente
-.env
-
-# Arquivos temporários
-*.tmp
